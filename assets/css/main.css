@@ -175,7 +175,7 @@ br {
 
 .mediaItem {
     max-height: 28px;
-    margin-right: 5px;
+    margin: 5px 10px;
 }
 
 .articleSection {
