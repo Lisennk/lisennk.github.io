@@ -89,9 +89,10 @@ a:hover {
 .iconContainer {
     margin-right: 25px;
     float: right;
+    margin-top: 5px;
 }
 .row {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 br {
