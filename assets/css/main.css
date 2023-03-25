@@ -228,6 +228,20 @@ br {
     color: #fff;
 }
 
+.twitter {
+    border: 2px solid #1DA1F2;
+    color: #1DA1F2;
+}
+
+.twitter:hover {
+    background: #1DA1F2;
+    color: #fff;
+}
+
+.mb {
+    margin-bottom: 20px;
+}
+
 .text-center {
     text-align: center;
 }
