@@ -16,6 +16,7 @@ body {
     object-fit: cover;
 }
 
+
 .photoContainer {
     text-align: center;
 }
@@ -131,6 +132,9 @@ br {
         font-size: 22px;
         line-height: 30px;
         font-weight: 400;
+        max-width: 500px;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .header {
@@ -258,4 +262,13 @@ br {
 .emoji {
     height: 36px;
     width: 36px;
+}
+
+.blockTitle {
+    font-weight: bold;
+    color: #737373;
+}
+
+li {
+    margin-bottom: 1rem;
 }
