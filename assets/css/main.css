@@ -232,6 +232,24 @@ br {
     color: #fff;
 }
 
+.cta-black {
+    display: block;
+    padding: 15px 18px;
+    border: 2px solid #000000;
+    border-radius: 3px;
+    background: #fff;
+    font-size: 17px;
+    font-weight: 500;
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+}
+
+.cta-black:hover {
+    background: #000000;
+    color: #fff;
+}
+
 .twitter {
     border: 2px solid #1DA1F2;
     color: #1DA1F2;
